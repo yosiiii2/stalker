@@ -1,0 +1,6 @@
+.DS_Store
+.ensime
+.ensime_cache/
+files/
+target/
+twitter4j.properties
